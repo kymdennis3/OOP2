@@ -8,6 +8,7 @@ public class Main {
         //System.out.println(myCar.price);
         //System.out.println(myCar.year);
 
-        myCar.drive();
+        //myCar.drive();
+        myCar.brake();
     }
 }
