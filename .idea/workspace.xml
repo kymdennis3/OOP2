@@ -64,13 +64,29 @@
       <option name="project" value="LOCAL" />
       <updated>1674789335559</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Called the method drive()">
+      <created>1674789499275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674789499275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Called the method brake()">
+      <created>1674789554482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674789554482</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="displayed the objects model" />
     <MESSAGE value="displayed the objects price" />
     <MESSAGE value="displayed the objects year" />
-    <option name="LAST_COMMIT_MESSAGE" value="displayed the objects year" />
+    <MESSAGE value="Called the method drive()" />
+    <MESSAGE value="Called the method brake()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Called the method brake()" />
   </component>
 </project>
