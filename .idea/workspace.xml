@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0c9a96b-6471-43c1-8171-28d1c677754c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e0c9a96b-6471-43c1-8171-28d1c677754c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674789554482</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created another car">
+      <created>1674789802858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674789802858</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,6 +92,7 @@
     <MESSAGE value="displayed the objects year" />
     <MESSAGE value="Called the method drive()" />
     <MESSAGE value="Called the method brake()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Called the method brake()" />
+    <MESSAGE value="Created another car" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created another car" />
   </component>
 </project>
