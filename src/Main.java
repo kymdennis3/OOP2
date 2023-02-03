@@ -8,8 +8,8 @@ public class Main {
         //System.out.println(myCar.model);
         //System.out.println(myCar.price);
         //System.out.println(myCar.year);
-        System.out.println();
-       //System.out.println(myCar2.make);
+        //System.out.println();
+       System.out.println(myCar2.make);
         //System.out.println(myCar2.model);
 
         //myCar.drive();
