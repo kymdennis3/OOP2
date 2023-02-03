@@ -4,8 +4,8 @@ public class Main {
         Car myCar = new Car();
         Car myCar2 = new Car();
 
-        System.out.println(myCar.make);
-        //System.out.println(myCar.model);
+        //System.out.println(myCar.make);
+        System.out.println(myCar.model);
         //System.out.println(myCar.price);
         //System.out.println(myCar.year);
         //System.out.println();
